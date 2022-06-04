@@ -2,7 +2,7 @@
 /**
  *main - main code block
  *
- *Return: prints a to z in lower characters
+ *Return: prints a to z in lower and upper characters
  */
 
 int main(void)
