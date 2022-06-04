@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *main main code block
+ *main - main code block
  *
  *Return: prints a to z in lower characters
  */
