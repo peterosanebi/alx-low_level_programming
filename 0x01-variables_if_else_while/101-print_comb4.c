@@ -24,16 +24,16 @@ int main(void)
 						putchar(n);
 						putchar(l);
 						putchar(p);
-						if (l < '9')
-						{
-							if (n == '7' && l == '8' && p == '9')
-							{
-								continue;
-							}
-							putchar(44);
-							putchar(32);
-						}
+					if (l < '9')
+					{
+					if (n == '7' && l == '8' && p == '9')
+					{
+						continue;
 					}
+					putchar(44);
+					putchar(32);
+					}
+				}
 				}
 			}
 		}
