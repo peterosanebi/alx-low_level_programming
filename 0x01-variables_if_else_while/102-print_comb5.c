@@ -19,7 +19,7 @@ int main(void)
 			{
 				while (m <= 9)
 				{
-					if ((p + m) > (n + l))
+					if ((p * 10) + m) > (n * 10) + l))
 					{
 					if (s == 0)
 					{
