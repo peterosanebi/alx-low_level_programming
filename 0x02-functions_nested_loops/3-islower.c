@@ -2,6 +2,8 @@
 /**
  *_islower - islowerfunction
  *
+ *@c: the letter being checked
+ *
  *Return: return 1 for uppercase or 0 for lowercase
  */
 int _islower(int c)
