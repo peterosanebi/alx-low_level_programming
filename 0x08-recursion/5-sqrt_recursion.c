@@ -17,6 +17,11 @@ int _sqrt(int x, int y)
 	else
 		return (1 + _sqrt(sum, y + 2));
 }
+/**
+ * _sqrt_recursion - recurive function
+ *
+ * Return: n
+ */
 
 int _sqrt_recursion(int n)
 {
